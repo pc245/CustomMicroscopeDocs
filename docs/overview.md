@@ -1,4 +1,4 @@
-The Temika microscope is a brightfield and epi-fluorescence microscope designed for automated imaging. It combines motorized XY stage motion, motorized focus (`Z`), motorized condenser height, programmable illumination, temperature control, and an optical autofocus system similar in operation to the Nikon PFS.
+The Temika microscope is a brightfield and epi-fluorescence microscope designed for automated imaging. It combines motorized XY stage motion, motorized focus (`Z`), motorized condenser height, programmable illumination, temperature control, and an optical autofocus system similar in operation to the Nikon PFS. It is a powerful platform for automated imaging. 
 
 ## Core capabilities
 
